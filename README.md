@@ -1,2 +1,2 @@
 # Calculator
-Me building a calculator program
+Calculator Program with basic functions
